@@ -23,7 +23,5 @@ class Stack:
     def __str(self):
         return str(self.items)
 
-#if __name__ == "__main__" :
- #   s = Stack()
-    #print(s)'''
+
 
